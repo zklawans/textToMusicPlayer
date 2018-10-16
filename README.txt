@@ -1,4 +1,6 @@
-We fully follow the design suggested in the handout.
+This is the final project of 6.005 (Elements of Software Construction). It takes a text file in a certain format and plays the music the text file describes using a MIDI sequencer.
+
+The instructions to play are below.
 
 Instruction:
 1. open a terminal and cd to root of the package
